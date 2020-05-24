@@ -1,0 +1,61 @@
+{
+    "SERVER101": {
+        "Code": "SERVER101",
+        "Status": "400",
+        "Error": "Requst is not acceptable.",
+        "Message": "An internal rrror is occured."
+    },
+    "USER100": {
+        "Code": "USER101",
+        "Status": "400",
+        "Error": "User Update Problem ",
+        "Message": "An internal rrror is occured."
+    },
+    "USER101": {
+        "Code": "USER101",
+        "Status": "400",
+        "Error": "User Not Found",
+        "Message": "Incorrect email or password"
+    },
+    "USER102": {
+        "Code": "USER102",
+        "Status": "400",
+        "Message": "Incorrect email or password."
+    },
+    "USER103": {
+        "Code": "USER103",
+        "Status": "500",
+        "Error": "Internal Database Error for USER",
+        "Message": "An internal rrror is occured."
+    },
+    "USER104": {
+        "Code": "USER104",
+        "Status": "400",
+        "Message": "An account with this email exists. Sign in."
+    },
+    "USER105": {
+        "Code": "USER105",
+        "Status": "400",
+        "Message": "User image is not found."
+    },
+    "MAIL101": {
+        "Code": "MAIL101",
+        "Status": "400",
+        "Message": "Mail sending is not succesfull."
+    },
+    "SECURITY101": {
+        "Code": "SECURITY101",
+        "Status": "400",
+        "Message": "There is no token."
+    },
+    "SECURITY102": {
+        "Code": "SECURITY102",
+        "Status": "400",
+        "Message": "Your security key expired or malformed. Please sign in again."
+    },
+    "SECURITY103": {
+        "Code": "SECURITY103",
+        "Status": "400",
+        "Message": "Google token expired or malformed."
+    }
+}
